@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778159763915",
+    "project_id": "love-connect-5839d",
+    "storage_bucket": "love-connect-5839d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778159763915:android:0438e7768c0612255a864e",
+        "android_client_info": {
+          "package_name": "com.Loveconnect.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19nKbxSqkYh6CB9_HyOtvvZYqJA_Q3VE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
